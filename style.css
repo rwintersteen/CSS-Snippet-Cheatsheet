@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+    color: teal;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+pre {
+    font-size: .7rem;
+    margin: 0;
+}
